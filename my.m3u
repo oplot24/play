@@ -1,0 +1,195 @@
+#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
+
+#EXTINF:-1 group-title="Россия",Первый канал
+#EXTGRP:Российские
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8
+
+#EXTINF:-1,Россия 1 HD
+#EXTGRP:Российские
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=russia1
+
+#EXTINF:-1,Россия 24
+#EXTGRP:Эфирные
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
+
+#EXTINF:-1,Россия К
+#EXTGRP:Российские
+http://a3569458063-s26881.cdn.ngenix.net/live/smil:russiak.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 group-title="Россия",Звезда HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+
+#EXTINF:-1 group-title="Россия Геоблок",Звезда
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/bw2000000/variant.m3u8
+
+#EXTINF:-1 group-title="Россия Геоблок",РЕН ТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+
+#EXTINF:-1 group-title="Россия Геоблок",НТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw2000000/variant.m3u8
+
+#EXTINF:-1,Наша Сибирь 4K
+#EXTGRP:Познавательные
+https://livetv.mylifeisgood.ml/channels/nashasibir4k
+
+#EXTINF:-1 tvg-name="Оплoт HD" group-title="Новости", Оплoт HD
+#EXTGRP:Новости
+http://ott.inmart.tv:8081/54/index.m3u8
+
+#EXTINF:-1 tvg-name="Оплoт 2 HD" group-title="Новости", Оплoт 2 HD
+#EXTGRP:Новости
+http://ott.inmart.tv:8081/17/index.m3u8
+
+#EXTINF:-1,Первый космический HD
+#EXTGRP:Познавательные
+https://livetv.mylifeisgood.ml/channels/firstspace
+
+#EXTINF:-1,Наше Любимое Кино
+#EXTGRP:Кино
+http://edge04.beetv.kz/btv/SWM/Nashe_Lubimoe_Kino/Nashe_Lubimoe_Kino_576p_2000kbps.m3u8
+
+#EXTINF:-1,Победа
+#EXTGRP:Кино
+http://edge04.beetv.kz/btv/SWM/Pobeda/Pobeda_576p_2000kbps.m3u8
+
+#EXTINF:-1,Кинозал! СССР
+#EXTGRP:Кино
+http://50.7.188.186/sssr_kino/mono.m3u8
+
+#EXTINF:-1,СССР ТВ
+#EXTGRP:Кино
+https://autopilot.catcast.tv/content/38821/index.m3u8
+
+#EXTINF:-1,Первый СССР
+#EXTGRP:Кино
+http://62.76.27.70:8081/1pnk/1pnk/playlist.m3u8
+
+#EXTINF:-1,Мир HD
+#EXTGRP:Эфирные
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+
+#EXTINF:-1,Мир (+4)
+#EXTGRP:Эфирные
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+
+#EXTINF:0,Мир Premium
+#EXTGRP:Эфирные
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+
+#EXTINF:0,Мир 24 HD 
+#EXTGRP:Эфирные
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+
+#EXTINF:-1 group-title="RU-Region",ТОЛК (Барнаул)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_TOLK/variant.m3u8
+
+#EXTINF:-1,Дом Кино
+#EXTGRP:Кино
+http://s.ipcast.xyz/~205ceb711830cb1db1dd6f2679970d2019b/65/hlsx/pl.m3u8
+
+#EXTINF:-1 group-title="Россия",Россия Культура Р
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://185.184.234.181:81/udp/225.1.2.4:1234
+
+#EXTINF:-1 group-title="Россия",Россия Культура
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_k/playlist_3.m3u8
+
+#EXTINF:-1 group-title="Россия",Россия Культура
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
+
+#EXTINF:-1,Disney канал
+#EXTGRP:Детские
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/variant.m3u8?version=2
+
+#EXTINF:-1,National Geographic Wild HD
+#EXTGRP:Познавательные
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+
+#EXTINF:-1,Пляжи FHD
+#EXTGRP:Релакс
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
+
+#EXTINF:-1,Лес FHD
+#EXTGRP:Релакс
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
+
+#EXTINF:-1,Озёра FHD
+#EXTGRP:Релакс
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
+
+#EXTINF:-1,Горы FHD
+#EXTGRP:Релакс
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
+
+#EXTINF:-1,Реки FHD
+#EXTGRP:Релакс
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+
+#EXTINF:-1,Закат FHD
+#EXTGRP:Релакс
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
+
+#EXTINF:-1,Джунгли FHD
+#EXTGRP:Релакс
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
+
+#EXTINF:-1,Водопады FHD
+#EXTGRP:Релакс
+https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8
+
+#EXTINF:-1,Дождь FHD
+#EXTGRP:Релакс
+https://a.jsrdn.com/broadcast/76381deeda/+0000/c.m3u8
+
+#EXTINF:-1,Камин HD
+#EXTGRP:Релакс
+https://stirr.ott-channels.stingray.com/naturescape/master_1920x1080_4500kbps.m3u8
+
+#EXTINF:-1,Камин+ HD
+#EXTGRP:Релакс
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,Очаг HD
+#EXTGRP:Релакс
+https://fireside.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_5fdd393a31300f16077a1692_fireside/playlist.m3u8
+
+#EXTINF:-1,Острова HD
+#EXTGRP:Релакс
+https://a.jsrdn.com/broadcast/41e3e6703e/+0000/c.m3u8
+
+#EXTINF:-1,Nature Relaxation HD
+#EXTGRP:Познавательные
+https://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8
+
+#EXTINF:-1,Релакс ТВ
+#EXTGRP:Познавательные
+https://5ad9aef2741e1.streamlock.net/public/smil:channel_3.smil/chunklist_w1243964946_b858000_tkd3RlbmR0aW1lPTE2NTIyNjE2MjYmd3RoYXNoPVNHakhSeEdTZHJaXzU3alhlcXhGdTNlc05NQWtQcFlnRkM5Q3NlaVd0aGs9.m3u8
+
+#EXTINF:-1 tvg-name="Артек Лесной HD" group-title="Без группы", Артек Лесной HD
+#EXTGRP:Без группы
+http://193.238.110.3/5/hls/live.m3u8
+
+#EXTINF:-1 tvg-name="Артек Озерный HD" group-title="Без группы", Артек Озерный HD
+#EXTGRP:Без группы
+http://193.238.110.3/8/hls/live.m3u8
+
+#EXTINF:-1 tvg-name="Артек Янтарный HD" group-title="Без группы", Артек Янтарный HD
+#EXTGRP:Без группы
+http://193.238.110.3/3/hls/live.m3u8
+
+#EXTINF:-1 tvg-name="Детское|Кино" group-title="Детские", Детское|Кино
+#EXTGRP:Детские
+http://v2.catcast.me/content/38720/index.m3u8
+
+#EXTINF:-1 tvg-name="Аладдин" group-title="Детские", Аладдин
+#EXTGRP:Детские
+https://autopilot.catcast.tv/content/34251/index.m3u8

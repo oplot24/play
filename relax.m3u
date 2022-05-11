@@ -1,0 +1,26 @@
+#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
+
+
+#EXTINF:-1,Наша Сибирь 4K
+#EXTGRP:Познавательные
+https://livetv.mylifeisgood.ml/channels/nashasibir4k
+
+#EXTINF:-1,Камин HD
+#EXTGRP:Релакс
+https://stirr.ott-channels.stingray.com/naturescape/master_1920x1080_4500kbps.m3u8
+
+#EXTINF:-1,Камин+ HD
+#EXTGRP:Релакс
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,Очаг HD
+#EXTGRP:Релакс
+https://fireside.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_5fdd393a31300f16077a1692_fireside/playlist.m3u8
+
+#EXTINF:-1,Острова HD
+#EXTGRP:Релакс
+https://a.jsrdn.com/broadcast/41e3e6703e/+0000/c.m3u8
+
+#EXTINF:-1,Nature Relaxation HD
+#EXTGRP:Познавательные
+https://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8
