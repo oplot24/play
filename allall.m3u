@@ -1,1575 +1,1575 @@
 #EXTM3U url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz"
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
 
-#EXTINF"" 1. group-title="Россия",Дом Кино
+#EXTINF:0,1. Россия",Дом Кино
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://sc.id-tv.kz:443/DomKino_36_37.m3u8
 
-#EXTINF"" 2. group-title="Россия",Дом Кино Премиум
+#EXTINF:0,2. Россия",Дом Кино Премиум
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://sc.id-tv.kz/domkino_hd.m3u8
 
-#EXTINF"" 3. group-title="Россия",Наше Новое Кино
+#EXTINF:0,3. Россия",Наше Новое Кино
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://46.181.193.122:81/udp/239.255.42.142:1234
 
-#EXTINF"" 4. group-title="Россия",Русский иллюзион
+#EXTINF:0,4. Россия",Русский иллюзион
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://sc.id-tv.kz:443/RusIlluzion_34_35.m3u8
 
-#EXTINF"" 5. group-title="Россия",Русский бестселлер
+#EXTINF:0,5. Россия",Русский бестселлер
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://193.33.88.172:8080/rus-bestseller/index.m3u8
 
-#EXTINF"" 6. group-title="Россия",Русский детектив
+#EXTINF:0,6. Россия",Русский детектив
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://193.33.88.172:8080/rus-detective/index.m3u8
 
-#EXTINF"" 7. group-title="Россия",Русский роман HD
+#EXTINF:0,7. Россия",Русский роман HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://193.33.88.172:8080/russki_roman_hd/index.m3u8
 
-#EXTINF"" 8. group-title="Россия",РОДНОЙ КАНАЛ
+#EXTINF:0,8. Россия",РОДНОЙ КАНАЛ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://n1.slavmir.tv/live/slavmir/playlist.m3u8
 
-#EXTINF"" 9. group-title="Россия",РОДНОЕ КИНО
+#EXTINF:0,9. Россия",РОДНОЕ КИНО
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://193.33.88.172/nashe-kino/tracks-v1a1/mono.m3u8
 
-#EXTINF:" 10. group-title="Россия",Наше любимое
+#EXTINF:0,10. Россия",Наше любимое
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://95.141.128.163:8004/play/a0mo
 
-#EXTINF:" 11. group-title="Россия",Мир сериала
+#EXTINF:0,11. Россия",Мир сериала
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://83.172.32.98:8012/tv/mirseriala
 
-#EXTINF:" 12. group-title="Россия",Твоё ТВ
+#EXTINF:0,12. Россия",Твоё ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://stream-norst.cf:8080/tvoetv/index.m3u8
 
-#EXTINF:" 13. group-title="Россия",TVOE TV HD
+#EXTINF:0,13. Россия",TVOE TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://stream-norst.cf:8080/tvoetv/tracks-v1a1/mono.m3u8
 
-#EXTINF:" 14. group-title="Россия",Мосфильм Золотая Коллекция R
+#EXTINF:0,14. Россия",Мосфильм Золотая Коллекция R
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://109.200.130.124:7007/play/a018
 
-#EXTINF:" 15. group-title="Россия",Мосфильм. Золотая коллекция
+#EXTINF:0,15. Россия",Мосфильм. Золотая коллекция
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://193.33.88.172:8080/mosfilm/tracks-v1a1/mono.m3u8
 
-#EXTINF:" 16. group-title="Россия",ТНТ HD
+#EXTINF:0,16. Россия",ТНТ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://193.33.88.172/tnt_hd/tracks-v1a1/mono.m3u8
 
-#EXTINF:" 17. group-title="Россия",ТНТ
+#EXTINF:0,17. Россия",ТНТ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://bl.uma.media/live/410338/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013807/79ad96b5b87fdce129191b83aaf2fb46/playlist.m3u8?s=disabled
 
-#EXTINF:" 18. group-title="Россия",ТНТ4 International
+#EXTINF:0,18. Россия",ТНТ4 International
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://sc.id-tv.kz:443/tnt4_34_35.m3u8
 
-#EXTINF:" 19. group-title="Россия",СТС 1080р
+#EXTINF:0,19. Россия",СТС 1080р
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT.m3u8
 
-#EXTINF:" 20. group-title="Россия",СТС International
+#EXTINF:0,20. Россия",СТС International
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://sc.id-tv.kz/STS_34_35.m3u8
 
-#EXTINF:" 21. group-title="Россия",СТС Love
+#EXTINF:0,21. Россия",СТС Love
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2.m3u8
 
-#EXTINF:" 22. group-title="Россия",Домашний HD
+#EXTINF:0,22. Россия",Домашний HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://okkotv-live.cdnvideo.ru/channel/Dom_HD_OTT.m3u8
 
-#EXTINF:" 23. group-title="Россия",ЧЕ
+#EXTINF:0,23. Россия",ЧЕ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://okkotv-live.cdnvideo.ru/channel/Che_OTT_2.m3u8
 
-#EXTINF:" 24. group-title="Россия",Ю
+#EXTINF:0,24. Россия",Ю
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://okkotv-live.cdnvideo.ru/channel/Yu_OTT.m3u8
 
-#EXTINF:" 25. group-title="Россия",Рен ТВ HD
+#EXTINF:0,25. Россия",Рен ТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT.m3u8
 
-#EXTINF:" 26. group-title="Россия",Рен ТВ International
+#EXTINF:0,26. Россия",Рен ТВ International
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://sc.id-tv.kz/RenTV.m3u8
 
-#EXTINF:" 27. group-title="Россия",ТВц
+#EXTINF:0,27. Россия",ТВц
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://185.184.234.181:81/udp/225.1.2.10:1234
 
-#EXTINF:" 28. group-title="Россия",ТВЦ
+#EXTINF:0,28. Россия",ТВЦ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/chunklist_b1703000.m3u8
 
-#EXTINF:" 29. group-title="Россия",ТВЦ Р
+#EXTINF:0,29. Россия",ТВЦ Р
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 
-#EXTINF:" 30. group-title="Россия",ТВЦ +2
+#EXTINF:0,30. Россия",ТВЦ +2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8
 
-#EXTINF:" 31. group-title="Россия",ТВ 3
+#EXTINF:0,31. Россия",ТВ 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/bw2000000/variant.m3u8
 
-#EXTINF:" 32. group-title="Россия",TV 3
+#EXTINF:0,32. Россия",TV 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://185.184.234.181:81/udp/225.1.2.15:1234
 
-#EXTINF:" 33. group-title="Россия",ТВ 3
+#EXTINF:0,33. Россия",ТВ 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://46.174.83.66/TV3/mpegts.m3u
 
-#EXTINF:" 34. group-title="Россия",ТВ-3 +2
+#EXTINF:0,34. Россия",ТВ-3 +2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8
 
-#EXTINF:" 35. group-title="Россия",ТВ-3 +4
+#EXTINF:0,35. Россия",ТВ-3 +4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/variant.m3u8
 
-#EXTINF:" 36. group-title="Россия",І
+#EXTINF:0,36. Россия",І
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://62.76.27.70:8081/1pnk/1pnk/playlist.m3u8
 
-#EXTINF:" 37. group-title="Россия",НТВ-Мир
+#EXTINF:0,37. Россия",НТВ-Мир
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://sc.id-tv.kz:443/NTV_34_35.m3u8
 
-#EXTINF:" 38. group-title="Россия",Феникс + Кино
+#EXTINF:0,38. Россия",Феникс + Кино
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://okkotv-live.cdnvideo.ru/channel/Phoenix.m3u8
 
-#EXTINF:" 39. group-title="Россия",НТВ
+#EXTINF:0,39. Россия",НТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
 
-#EXTINF:" 40. group-title="Россия",НТВ+2
+#EXTINF:0,40. Россия",НТВ+2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8
 
-#EXTINF:" 41. group-title="Россия",5 Канал
+#EXTINF:0,41. Россия",5 Канал
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://185.184.234.181:81/udp/225.1.2.5:1234
 
-#EXTINF:" 42. group-title="Россия",5 Канал
+#EXTINF:0,42. Россия",5 Канал
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://okkotv-live.cdnvideo.ru/channel/5_OTT.m3u8
 
-#EXTINF:" 43. group-title="Россия",5 канал
+#EXTINF:0,43. Россия",5 канал
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 
-#EXTINF:" 44. group-title="Россия",Ностальгия
+#EXTINF:0,44. Россия",Ностальгия
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://193.33.88.172:8080/nostalgia/index.m3u8
 
-#EXTINF:" 45. group-title="Россия",ТВ 43
+#EXTINF:0,45. Россия",ТВ 43
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://sochi-strk.ru:2015/43Kanal/mpegts
 
-#EXTINF:" 46. group-title="Россия",КИНО 24
+#EXTINF:0,46. Россия",КИНО 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://85.192.10.131/hls/Kino24Ru/playlist.m3u8
 
-#EXTINF:" 47. group-title="Россия",ВСЕ ТВ
+#EXTINF:0,47. Россия",ВСЕ ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://okkotv-live.cdnvideo.ru/channel/A2_HD.m3u8
 
-#EXTINF:" 48. group-title="Россия",D-TV6
+#EXTINF:0,48. Россия",D-TV6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://dmitry-tv.ddns.net:8666/his/CH_D-TV6
 
-#EXTINF:" 49. group-title="Россия",РТР-Планета
+#EXTINF:0,49. Россия",РТР-Планета
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://sc.id-tv.kz:443/RossiyaRTR_34_35.m3u8
 
-#EXTINF:" 50. group-title="Россия",RTR-Planeta
+#EXTINF:0,50. Россия",RTR-Planeta
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://204.107.27.61/vr-streams/1738.high/playlist.m3u8
 
-#EXTINF:" 51. group-title="Россия",TV Extra
+#EXTINF:0,51. Россия",TV Extra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://live-1.otcnet.ru:80/tvextra720b/index.m3u8.m3u
 
-#EXTINF:" 52. group-title="Россия",TVM Channel
+#EXTINF:0,52. Россия",TVM Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://cdn-01.bonus-tv.ru:8080/tvm_edge/tracks-v1a1/index.m3u8
 
-#EXTINF:" 53. group-title="Россия",Top Secret
+#EXTINF:0,53. Россия",Top Secret
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://178.163.37.161:4022/udp/234.0.0.185:2000
 
-#EXTINF:" 54. group-title="Россия",І
+#EXTINF:0,54. Россия",І
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://62.76.27.70:8081/1pnk/1pnk/playlist.m3u8
 
-#EXTINF:" 55. group-title="Россия",24
+#EXTINF:0,55. Россия",24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
 
-#EXTINF:" 56. group-title="Россия",360° Подмосковье HD
+#EXTINF:0,56. Россия",360° Подмосковье HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
 
-#EXTINF:" 57. group-title="Россия",Бобер
+#EXTINF:0,57. Россия",Бобер
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://sc.id-tv.kz/bober.m3u8.m3u
 
-#EXTINF:" 58. group-title="Россия",Время
+#EXTINF:0,58. Россия",Время
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://sc.id-tv.kz:443/Vremya_36_37.m3u8
 
-#EXTINF:" 59. group-title="Россия",Дождь
+#EXTINF:0,59. Россия",Дождь
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://a3569457435-s78511.cdn.ngenix.net/open/_definst_/TVRain_noaudio/chunklist_DVR.m3u8
 
-#EXTINF:" 60. group-title="Россия",Звезда HD
+#EXTINF:0,60. Россия",Звезда HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 
-#EXTINF:" 61. group-title="Россия",Звезда
+#EXTINF:0,61. Россия",Звезда
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 
-#EXTINF:" 62. group-title="Россия",Известия
+#EXTINF:0,62. Россия",Известия
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 
-#EXTINF:" 63. group-title="Россия",КВН
+#EXTINF:0,63. Россия",КВН
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://178.163.37.161:4022/udp/234.0.0.233:2000
 
-#EXTINF:" 64. group-title="Россия",Красная линия СССР р
+#EXTINF:0,64. Россия",Красная линия СССР р
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
 
-#EXTINF:" 65. group-title="Россия",Красная линия СССР
+#EXTINF:0,65. Россия",Красная линия СССР
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
 
-#EXTINF:" 66. group-title="Россия",ЛЕН ТВ 24
+#EXTINF:0,66. Россия",ЛЕН ТВ 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_LenTV/hls/1920x1080@4504/playlist.m3u8
 
-#EXTINF:" 67. group-title="Россия",МИР 24
+#EXTINF:0,67. Россия",МИР 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
-#EXTINF:" 68. group-title="Россия",МИР HD
+#EXTINF:0,68. Россия",МИР HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 
-#EXTINF:" 69. group-title="Россия",МИР
+#EXTINF:0,69. Россия",МИР
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
 
-#EXTINF:" 70. group-title="Россия",Мир Premium HD
+#EXTINF:0,70. Россия",Мир Premium HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
 
-#EXTINF:" 71. group-title="Россия",Москва Доверие
+#EXTINF:0,71. Россия",Москва Доверие
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://cdnmg.secure.live.rtr-vesti.ru/hls/doverie/playlist_2.m3u8
 
-#EXTINF:" 72. group-title="Россия",НИКА ТВ
+#EXTINF:0,72. Россия",НИКА ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
 
-#EXTINF:" 73. group-title="Россия",ОСП студия
+#EXTINF:0,73. Россия",ОСП студия
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://140.238.127.147/streams/5.m3u8
 
-#EXTINF:" 74. group-title="Россия",ОТР
+#EXTINF:0,74. Россия",ОТР
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_OTR_VLGD/variant.m3u8
 
-#EXTINF:" 75. group-title="Россия",Осторожно Модерн
+#EXTINF:0,75. Россия",Осторожно Модерн
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://140.238.127.147/streams/2.m3u8.m3u
 
-#EXTINF:" 76. group-title="Россия",Первый HD
+#EXTINF:0,76. Россия",Первый HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://serv25.vintera.tv:8081/1pnk/1pnk/playlist.m3u8
 
-#EXTINF:" 77. group-title="Россия",Первый канал
+#EXTINF:0,77. Россия",Первый канал
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8
 
-#EXTINF:" 78. group-title="Россия",Победа
+#EXTINF:0,78. Россия",Победа
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://sc.id-tv.kz/Pobeda_34_35.m3u8.m3u
 
-#EXTINF:" 79. group-title="Россия",Продвижение
+#EXTINF:0,79. Россия",Продвижение
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://185.184.234.181:81/udp/225.1.2.3:1234
 
-#EXTINF:" 80. group-title="Россия",Пятница International
+#EXTINF:0,80. Россия",Пятница International
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://sc.id-tv.kz:443/friday_34_35.m3u8
 
-#EXTINF:" 81. group-title="Россия",Пятница
+#EXTINF:0,81. Россия",Пятница
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://185.184.234.181:81/udp/225.1.2.18:1234
 
-#EXTINF:" 82. group-title="Россия",Россия 1
+#EXTINF:0,82. Россия",Россия 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r1.smil/chunklist_b1600000.m3u8
 
-#EXTINF:" 83. group-title="Россия",Россия Культура Р
+#EXTINF:0,83. Россия",Россия Культура Р
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://185.184.234.181:81/udp/225.1.2.4:1234
 
-#EXTINF:" 84. group-title="Россия",Россия Культура
+#EXTINF:0,84. Россия",Россия Культура
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_k/playlist_3.m3u8
 
-#EXTINF:" 85. group-title="Россия",Россия Культура
+#EXTINF:0,85. Россия",Россия Культура
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
 
-#EXTINF:" 86. group-title="Россия",Россия РТР
+#EXTINF:0,86. Россия",Россия РТР
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
 
-#EXTINF:" 87. group-title="Россия",Суббота! HD
+#EXTINF:0,87. Россия",Суббота! HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://bl.uma.media/live/317845/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
 
-#EXTINF:" 88. group-title="Россия",Суббота
+#EXTINF:0,88. Россия",Суббота
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://46.174.83.66/Subbota/mpegts.m3u
 
-#EXTINF:" 89. group-title="Россия",ЭХО ТВ
+#EXTINF:0,89. Россия",ЭХО ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
 
-#EXTINF:" 90. group-title="Россия Геоблок",Первый канал (-1)
+#EXTINF:0,90. Россия Геоблок",Первый канал (-1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R03_1TV_KLNG/variant.m3u8
 
-#EXTINF:" 91. group-title="Россия Геоблок",Первый канал
+#EXTINF:0,91. Россия Геоблок",Первый канал
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/bw2000000/variant.m3u8
 
-#EXTINF:" 92. group-title="Россия Геоблок",Первый канал (+1)
+#EXTINF:0,92. Россия Геоблок",Первый канал (+1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8
 
-#EXTINF:" 93. group-title="Россия Геоблок",Первый канал (+2)
+#EXTINF:0,93. Россия Геоблок",Первый канал (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/bw2000000/variant.m3u8
 
-#EXTINF:" 94. group-title="Россия Геоблок",Первый канал (+3)
+#EXTINF:0,94. Россия Геоблок",Первый канал (+3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_OMSK_1TV_OMSKOBL/variant.m3u8
 
-#EXTINF:" 95. group-title="Россия Геоблок",Первый канал (+4)
+#EXTINF:0,95. Россия Геоблок",Первый канал (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/bw2000000/variant.m3u8
 
-#EXTINF:" 96. group-title="Россия Геоблок",Первый канал (+5)
+#EXTINF:0,96. Россия Геоблок",Первый канал (+5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_IRK_1TV/variant.m3u8
 
-#EXTINF:" 97. group-title="Россия Геоблок",Первый канал (+6)
+#EXTINF:0,97. Россия Геоблок",Первый канал (+6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_6/bw2000000/variant.m3u8
 
-#EXTINF:" 98. group-title="Россия Геоблок",Первый канал (+7)
+#EXTINF:0,98. Россия Геоблок",Первый канал (+7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_1TV/variant.m3u8
 
-#EXTINF:" 99. group-title="Россия Геоблок",Первый канал (+8)
+#EXTINF:0,99. Россия Геоблок",Первый канал (+8)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/bw2000000/variant.m3u8
 
-#EXTINF:0 100. group-title="Россия Геоблок",Первый канал (+9)
+#EXTINF:0,100. Россия Геоблок",Первый канал (+9)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8
 
-#EXTINF:0 101. group-title="Россия Геоблок",НТВ (-1)
+#EXTINF:0,101. Россия Геоблок",НТВ (-1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://a3569458162-rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8?offset=-3600&utcstart=1611486000&version=2
 
-#EXTINF:0 102. group-title="Россия Геоблок",НТВ
+#EXTINF:0,102. Россия Геоблок",НТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw2000000/variant.m3u8
 
-#EXTINF:0 103. group-title="Россия Геоблок",НТВ (+1)
+#EXTINF:0,103. Россия Геоблок",НТВ (+1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_NTV/variant.m3u8
 
-#EXTINF:0 104. group-title="Россия Геоблок",НТВ (+2)
+#EXTINF:0,104. Россия Геоблок",НТВ (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/bw2000000/variant.m3u8
 
-#EXTINF:0 105. group-title="Россия Геоблок",НТВ (+3)
+#EXTINF:0,105. Россия Геоблок",НТВ (+3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_NTV_OMSKOBL/variant.m3u8
 
-#EXTINF:0 106. group-title="Россия Геоблок",НТВ (+4)
+#EXTINF:0,106. Россия Геоблок",НТВ (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/bw2000000/variant.m3u8
 
-#EXTINF:0 107. group-title="Россия Геоблок",НТВ (+5)
+#EXTINF:0,107. Россия Геоблок",НТВ (+5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R03_NTV_BURAT/variant.m3u8
 
-#EXTINF:0 108. group-title="Россия Геоблок",НТВ (+6)
+#EXTINF:0,108. Россия Геоблок",НТВ (+6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_NTV_ZK/variant.m3u8
 
-#EXTINF:0 109. group-title="Россия Геоблок",НТВ (+7)
+#EXTINF:0,109. Россия Геоблок",НТВ (+7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/bw2000000/variant.m3u8
 
-#EXTINF:0 110. group-title="Россия Геоблок",Россия 1
+#EXTINF:0,110. Россия Геоблок",Россия 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
 
-#EXTINF:0 111. group-title="Россия Геоблок",Россия 1 (+1)
+#EXTINF:0,111. Россия Геоблок",Россия 1 (+1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus1/playlist_2.m3u8
 
-#EXTINF:0 112. group-title="Россия Геоблок",Россия 1 (+2)
+#EXTINF:0,112. Россия Геоблок",Россия 1 (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus2/playlist_2.m3u8
 
-#EXTINF:0 113. group-title="Россия Геоблок",Россия 1 (+3)
+#EXTINF:0,113. Россия Геоблок",Россия 1 (+3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus3/playlist_2.m3u8
 
-#EXTINF:0 114. group-title="Россия Геоблок",Россия 1 (+4)
+#EXTINF:0,114. Россия Геоблок",Россия 1 (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus4/playlist_2.m3u8
 
-#EXTINF:0 115. group-title="Россия Геоблок",Россия 1 (+5)
+#EXTINF:0,115. Россия Геоблок",Россия 1 (+5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus5/playlist_2.m3u8
 
-#EXTINF:0 116. group-title="Россия Геоблок",Россия 1 (+6)
+#EXTINF:0,116. Россия Геоблок",Россия 1 (+6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus6/playlist_2.m3u8
 
-#EXTINF:0 117. group-title="Россия Геоблок",Россия 1 (+7)
+#EXTINF:0,117. Россия Геоблок",Россия 1 (+7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus7/playlist_2.m3u8
 
-#EXTINF:0 118. group-title="Россия Геоблок",Россия 1 (+8)
+#EXTINF:0,118. Россия Геоблок",Россия 1 (+8)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus8/playlist_2.m3u8
 
-#EXTINF:0 119. group-title="Россия Геоблок",Россия 1 (+9)
+#EXTINF:0,119. Россия Геоблок",Россия 1 (+9)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus9/playlist_2.m3u8
 
-#EXTINF:0 120. group-title="Россия Геоблок",ТВ Центр (-1)
+#EXTINF:0,120. Россия Геоблок",ТВ Центр (-1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
 
-#EXTINF:0 121. group-title="Россия Геоблок",ТВ Центр
+#EXTINF:0,121. Россия Геоблок",ТВ Центр
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 
-#EXTINF:0 122. group-title="Россия Геоблок",ТВ Центр (+1)
+#EXTINF:0,122. Россия Геоблок",ТВ Центр (+1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R04_OTT_STH_ASTRH_TVC/variant.m3u8
 
-#EXTINF:0 123. group-title="Россия Геоблок",ТВ Центр (+2)
+#EXTINF:0,123. Россия Геоблок",ТВ Центр (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/bw2000000/variant.m3u8
 
-#EXTINF:0 124. group-title="Россия Геоблок",ТВ Центр (+3)
+#EXTINF:0,124. Россия Геоблок",ТВ Центр (+3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_TVC_OMSKOBL/variant.m3u8
 
-#EXTINF:0 125. group-title="Россия Геоблок",ТВ Центр (+5)
+#EXTINF:0,125. Россия Геоблок",ТВ Центр (+5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R04_TVC_BURAT/variant.m3u8
 
-#EXTINF:0 126. group-title="Россия Геоблок",Россия К (+1)
+#EXTINF:0,126. Россия Геоблок",Россия К (+1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R02_OTT_STH_ASTRH_ROSSIAK/variant.m3u8
 
-#EXTINF:0 127. group-title="Россия Геоблок",Россия К (+2)
+#EXTINF:0,127. Россия Геоблок",Россия К (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_2/bw2000000/variant.m3u8
 
-#EXTINF:0 128. group-title="Россия Геоблок",Россия К (+3)
+#EXTINF:0,128. Россия Геоблок",Россия К (+3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK_OMSKOBL/variant.m3u8
 
-#EXTINF:0 129. group-title="Россия Геоблок",Россия К (+4)
+#EXTINF:0,129. Россия Геоблок",Россия К (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_4/bw2000000/variant.m3u8
 
-#EXTINF:0 130. group-title="Россия Геоблок",Россия К (+5)
+#EXTINF:0,130. Россия Геоблок",Россия К (+5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK_BURAT/variant.m3u8
 
-#EXTINF:0 131. group-title="Россия Геоблок",Россия К (+7)
+#EXTINF:0,131. Россия Геоблок",Россия К (+7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/bw2000000/variant.m3u8
 
-#EXTINF:0 132. group-title="Россия Геоблок",Пятый канал (-1)
+#EXTINF:0,132. Россия Геоблок",Пятый канал (-1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R02_OTT_NW_KLGR_5TV/variant.m3u8
 
-#EXTINF:0 133. group-title="Россия Геоблок",Пятый канал
+#EXTINF:0,133. Россия Геоблок",Пятый канал
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/bw2000000/variant.m3u8
 
-#EXTINF:0 134. group-title="Россия Геоблок",Пятый канал (+1)
+#EXTINF:0,134. Россия Геоблок",Пятый канал (+1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R02_OTT_STH_ASTRH_5TV/variant.m3u8
 
-#EXTINF:0 135. group-title="Россия Геоблок",Пятый канал (+2)
+#EXTINF:0,135. Россия Геоблок",Пятый канал (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/bw2000000/variant.m3u8
 
-#EXTINF:0 136. group-title="Россия Геоблок",Пятый канал (+3)
+#EXTINF:0,136. Россия Геоблок",Пятый канал (+3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R02_5TV_OMSKOBL/variant.m3u8
 
-#EXTINF:0 137. group-title="Россия Геоблок",Пятый канал (+4)
+#EXTINF:0,137. Россия Геоблок",Пятый канал (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/bw2000000/variant.m3u8
 
-#EXTINF:0 138. group-title="Россия Геоблок",Пятый канал (+5)
+#EXTINF:0,138. Россия Геоблок",Пятый канал (+5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R02_5TV_BURAT/variant.m3u8
 
-#EXTINF:0 139. group-title="Россия Геоблок",Пятый канал (+7)
+#EXTINF:0,139. Россия Геоблок",Пятый канал (+7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/bw2000000/variant.m3u8
 
-#EXTINF:0 140. group-title="Россия Геоблок",ТНТ
+#EXTINF:0,140. Россия Геоблок",ТНТ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/bw2000000/variant.m3u8
 
-#EXTINF:0 141. group-title="Россия Геоблок",ТНТ (+2)
+#EXTINF:0,141. Россия Геоблок",ТНТ (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/bw2000000/variant.m3u8
 
-#EXTINF:0 142. group-title="Россия Геоблок",ТНТ (+4)
+#EXTINF:0,142. Россия Геоблок",ТНТ (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/bw2000000/variant.m3u8
 
-#EXTINF:0 143. group-title="Россия Геоблок",ТНТ (+7)
+#EXTINF:0,143. Россия Геоблок",ТНТ (+7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/bw2000000/variant.m3u8
 
-#EXTINF:0 144. group-title="Россия Геоблок",ТВ3 (-1)
+#EXTINF:0,144. Россия Геоблок",ТВ3 (-1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
 
-#EXTINF:0 145. group-title="Россия Геоблок",ТВ3
+#EXTINF:0,145. Россия Геоблок",ТВ3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/bw2000000/variant.m3u8
 
-#EXTINF:0 146. group-title="Россия Геоблок",ТВ3 (+1)
+#EXTINF:0,146. Россия Геоблок",ТВ3 (+1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_ASTRH_TV3/variant.m3u8
 
-#EXTINF:0 147. group-title="Россия Геоблок",ТВ3 (+2)
+#EXTINF:0,147. Россия Геоблок",ТВ3 (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/bw2000000/variant.m3u8
 
-#EXTINF:0 148. group-title="Россия Геоблок",ТВ3 (+3)
+#EXTINF:0,148. Россия Геоблок",ТВ3 (+3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_TV3_OMSKOBL/variant.m3u8
 
-#EXTINF:0 149. group-title="Россия Геоблок",ТВ3 (+4)
+#EXTINF:0,149. Россия Геоблок",ТВ3 (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/bw2000000/variant.m3u8
 
-#EXTINF:0 150. group-title="Россия Геоблок",ТВ3 (+5)
+#EXTINF:0,150. Россия Геоблок",ТВ3 (+5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_TV3_BURAT/variant.m3u8
 
-#EXTINF:0 151. group-title="Россия Геоблок",ТВ3 (+7)
+#EXTINF:0,151. Россия Геоблок",ТВ3 (+7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/bw2000000/variant.m3u8
 
-#EXTINF:0 152. group-title="Россия Геоблок",Че
+#EXTINF:0,152. Россия Геоблок",Че
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8
 
-#EXTINF:0 153. group-title="Россия Геоблок",Че (+2)
+#EXTINF:0,153. Россия Геоблок",Че (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_PERETZ/variant.m3u8
 
-#EXTINF:0 154. group-title="Россия Геоблок",Че (+4)
+#EXTINF:0,154. Россия Геоблок",Че (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_4/bw2000000/variant.m3u8
 
-#EXTINF:0 155. group-title="Россия Геоблок",Че (+7)
+#EXTINF:0,155. Россия Геоблок",Че (+7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/bw2000000/variant.m3u8
 
-#EXTINF:0 156. group-title="Россия Геоблок",СТС Мир
+#EXTINF:0,156. Россия Геоблок",СТС Мир
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_TSM/variant.m3u8
 
-#EXTINF:0 157. group-title="Россия Геоблок",СТС (-1)
+#EXTINF:0,157. Россия Геоблок",СТС (-1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R02_STS/variant.m3u8
 
-#EXTINF:0 158. group-title="Россия Геоблок",СТС
+#EXTINF:0,158. Россия Геоблок",СТС
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/bw2000000/variant.m3u8
 
-#EXTINF:0 159. group-title="Россия Геоблок",СТС (+1)
+#EXTINF:0,159. Россия Геоблок",СТС (+1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R02_OTT_STH_ASTRH_STS/variant.m3u8
 
-#EXTINF:0 160. group-title="Россия Геоблок",СТС (+2)
+#EXTINF:0,160. Россия Геоблок",СТС (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/bw2000000/variant.m3u8
 
-#EXTINF:0 161. group-title="Россия Геоблок",СТС (+4)
+#EXTINF:0,161. Россия Геоблок",СТС (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/bw2000000/variant.m3u8
 
-#EXTINF:0 162. group-title="Россия Геоблок",СТС (+6)
+#EXTINF:0,162. Россия Геоблок",СТС (+6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_STS_ZK/variant.m3u8
 
-#EXTINF:0 163. group-title="Россия Геоблок",СТС (+7)
+#EXTINF:0,163. Россия Геоблок",СТС (+7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/bw2000000/variant.m3u8
 
-#EXTINF:0 164. group-title="Россия Геоблок",СТС Love
+#EXTINF:0,164. Россия Геоблок",СТС Love
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/bw2000000/variant.m3u8
 
-#EXTINF:0 165. group-title="Россия Геоблок",СТС Love (+2)
+#EXTINF:0,165. Россия Геоблок",СТС Love (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/bw2000000/variant.m3u8
 
-#EXTINF:0 166. group-title="Россия Геоблок",СТС Love (+7)
+#EXTINF:0,166. Россия Геоблок",СТС Love (+7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_7/bw2000000/variant.m3u8
 
-#EXTINF:0 167. group-title="Россия Геоблок",Пятница (-1)
+#EXTINF:0,167. Россия Геоблок",Пятница (-1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
 
-#EXTINF:0 168. group-title="Россия Геоблок",Пятница
+#EXTINF:0,168. Россия Геоблок",Пятница
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/bw2000000/variant.m3u8
 
-#EXTINF:0 169. group-title="Россия Геоблок",Пятница (+2)
+#EXTINF:0,169. Россия Геоблок",Пятница (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/bw2000000/variant.m3u8
 
-#EXTINF:0 170. group-title="Россия Геоблок",Пятница (+4)
+#EXTINF:0,170. Россия Геоблок",Пятница (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/bw2000000/variant.m3u8
 
-#EXTINF:0 171. group-title="Россия Геоблок",Пятница (+7)
+#EXTINF:0,171. Россия Геоблок",Пятница (+7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/bw2000000/variant.m3u8
 
-#EXTINF:0 172. group-title="Россия Геоблок",Суббота!
+#EXTINF:0,172. Россия Геоблок",Суббота!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/bw2000000/variant.m3u8
 
-#EXTINF:0 173. group-title="Россия Геоблок",Суббота! (+2)
+#EXTINF:0,173. Россия Геоблок",Суббота! (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/bw2000000/variant.m3u8
 
-#EXTINF:0 174. group-title="Россия Геоблок",Суббота! (+4)
+#EXTINF:0,174. Россия Геоблок",Суббота! (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/bw2000000/variant.m3u8
 
-#EXTINF:0 175. group-title="Россия Геоблок",Суббота! (+7)
+#EXTINF:0,175. Россия Геоблок",Суббота! (+7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/bw2000000/variant.m3u8
 
-#EXTINF:0 176. group-title="Россия Геоблок",РЕН ТВ (-1)
+#EXTINF:0,176. Россия Геоблок",РЕН ТВ (-1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8
 
-#EXTINF:0 177. group-title="Россия Геоблок",РЕН ТВ
+#EXTINF:0,177. Россия Геоблок",РЕН ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 
-#EXTINF:0 178. group-title="Россия Геоблок",РЕН ТВ (+1)
+#EXTINF:0,178. Россия Геоблок",РЕН ТВ (+1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R02_OTT_STH_ASTRH_RENTV/variant.m3u8
 
-#EXTINF:0 179. group-title="Россия Геоблок",РЕН ТВ (+2)
+#EXTINF:0,179. Россия Геоблок",РЕН ТВ (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/bw2000000/variant.m3u8
 
-#EXTINF:0 180. group-title="Россия Геоблок",РЕН ТВ (+4)
+#EXTINF:0,180. Россия Геоблок",РЕН ТВ (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/bw2000000/variant.m3u8
 
-#EXTINF:0 181. group-title="Россия Геоблок",РЕН ТВ (+5)
+#EXTINF:0,181. Россия Геоблок",РЕН ТВ (+5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R02_RENTV_BURAT/variant.m3u8
 
-#EXTINF:0 182. group-title="Россия Геоблок",РЕН ТВ (+7)
+#EXTINF:0,182. Россия Геоблок",РЕН ТВ (+7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/bw2000000/variant.m3u8
 
-#EXTINF:0 183. group-title="Россия Геоблок",Звезда (-1)
+#EXTINF:0,183. Россия Геоблок",Звезда (-1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
 
-#EXTINF:0 184. group-title="Россия Геоблок",Звезда
+#EXTINF:0,184. Россия Геоблок",Звезда
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/bw2000000/variant.m3u8
 
-#EXTINF:0 185. group-title="Россия Геоблок",Звезда (+2)
+#EXTINF:0,185. Россия Геоблок",Звезда (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/bw2000000/variant.m3u8
 
-#EXTINF:0 186. group-title="Россия Геоблок",Звезда (+4)
+#EXTINF:0,186. Россия Геоблок",Звезда (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/bw2000000/variant.m3u8
 
-#EXTINF:0 187. group-title="Россия Геоблок",Звезда (+6)
+#EXTINF:0,187. Россия Геоблок",Звезда (+6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_ZVEZDA_ZK/variant.m3u8
 
-#EXTINF:0 188. group-title="Россия Геоблок",Звезда (+7)
+#EXTINF:0,188. Россия Геоблок",Звезда (+7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/bw2000000/variant.m3u8
 
-#EXTINF:0 189. group-title="Россия Геоблок",Ю
+#EXTINF:0,189. Россия Геоблок",Ю
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U/bw2000000/variant.m3u8
 
-#EXTINF:0 190. group-title="Россия Геоблок",Ю (+2)
+#EXTINF:0,190. Россия Геоблок",Ю (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/bw2000000/variant.m3u8
 
-#EXTINF:0 191. group-title="Россия Геоблок",Ю (+4)
+#EXTINF:0,191. Россия Геоблок",Ю (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/bw2000000/variant.m3u8
 
-#EXTINF:0 192. group-title="Россия Геоблок",Ю (+7)
+#EXTINF:0,192. Россия Геоблок",Ю (+7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/bw2000000/variant.m3u8
 
-#EXTINF:0 193. group-title="Россия Геоблок",Домашний (-1)
+#EXTINF:0,193. Россия Геоблок",Домашний (-1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
 
-#EXTINF:0 194. group-title="Россия Геоблок",Домашний
+#EXTINF:0,194. Россия Геоблок",Домашний
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/bw2000000/variant.m3u8
 
-#EXTINF:0 195. group-title="Россия Геоблок",Домашний (+2)
+#EXTINF:0,195. Россия Геоблок",Домашний (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/bw2000000/variant.m3u8
 
-#EXTINF:0 196. group-title="Россия Геоблок",Домашний (+4)
+#EXTINF:0,196. Россия Геоблок",Домашний (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/bw2000000/variant.m3u8
 
-#EXTINF:0 197. group-title="Россия Геоблок",Домашний (+5)
+#EXTINF:0,197. Россия Геоблок",Домашний (+5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://rt-sth-mahachk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_STH_MAHACHK_DOMASHNY/variant.m3u8
 
-#EXTINF:0 198. group-title="Россия Геоблок",Домашний (+6)
+#EXTINF:0,198. Россия Геоблок",Домашний (+6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_DOMASHN_ZK/variant.m3u8
 
-#EXTINF:0 199. group-title="Россия Геоблок",Домашний (+7)
+#EXTINF:0,199. Россия Геоблок",Домашний (+7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/bw2000000/variant.m3u8
 
-#EXTINF:0 200. group-title="RU-Region",Мир Белогорья
+#EXTINF:0,200. RU-Region",Мир Белогорья
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BELG_MIR_BLG/variant.m3u8
 
-#EXTINF:0 201. group-title="RU-Region",Белгород 24
+#EXTINF:0,201. RU-Region",Белгород 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
 
-#EXTINF:0 202. group-title="RU-Region",Белгород-24
+#EXTINF:0,202. RU-Region",Белгород-24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_BELG_BELGOROD24/variant.m3u8
 
-#EXTINF:0 203. group-title="RU-Region",12 канал HD
+#EXTINF:0,203. RU-Region",12 канал HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
 
-#EXTINF:0 204. group-title="RU-Region",12 канал HD r
+#EXTINF:0,204. RU-Region",12 канал HD r
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/variant.m3u8
 
-#EXTINF:0 205. group-title="RU-Region",360° Ульяновск
+#EXTINF:0,205. RU-Region",360° Ульяновск
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R03_STB/variant.m3u8
 
-#EXTINF:0 206. group-title="RU-Region",31 канал Челябинск
+#EXTINF:0,206. RU-Region",31 канал Челябинск
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_31TVK_CHEL/variant.m3u8
 
-#EXTINF:0 207. group-title="RU-Region",Ника-ТВ
+#EXTINF:0,207. RU-Region",Ника-ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-ct-kaluga-htlive.cdn.ngenix.net/hls/CH_R01_NIKA/variant.m3u8
 
-#EXTINF:0 208. group-title="RU-Region",ОРТ-Планета (Оренбург)
+#EXTINF:0,208. RU-Region",ОРТ-Планета (Оренбург)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R03_ORTPLANET/variant.m3u8
 
-#EXTINF:0 209. group-title="RU-Region",12 канал
+#EXTINF:0,209. RU-Region",12 канал
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://12channel.bonus-tv.ru/cdn/omskchannel/playlist.m3u8
 
-#EXTINF:0 210. group-title="RU-Region",Мордовия 24 r
+#EXTINF:0,210. RU-Region",Мордовия 24 r
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
 
-#EXTINF:0 211. group-title="RU-Region",С 1 HD Сургут
+#EXTINF:0,211. RU-Region",С 1 HD Сургут
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://sitv.ru/hls/stv.m3u8
 
-#EXTINF:0 212. group-title="RU-Region",С 86 HD Сургут
+#EXTINF:0,212. RU-Region",С 86 HD Сургут
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://sitv.ru/hls/s86.m3u8
 
-#EXTINF:0 213. group-title="RU-Region",Сургут 24 (Сургут)
+#EXTINF:0,213. RU-Region",Сургут 24 (Сургут)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SURGUT24/variant.m3u8
 
-#EXTINF:0 214. group-title="RU-Region",UGRA Travel (Сургут)
+#EXTINF:0,214. RU-Region",UGRA Travel (Сургут)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_TRAVEL/variant.m3u8
 
-#EXTINF:0 215. group-title="RU-Region",Наши города (Сургут)
+#EXTINF:0,215. RU-Region",Наши города (Сургут)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NGOR_URAL_SUR/variant.m3u8
 
-#EXTINF:0 216. group-title="RU-Region",Югорск ТВ (Сургут)
+#EXTINF:0,216. RU-Region",Югорск ТВ (Сургут)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_YUGORSKTV/variant.m3u8
 
-#EXTINF:0 217. group-title="RU-Region",НВК (Саха)
+#EXTINF:0,217. RU-Region",НВК (Саха)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://s34351.cdn.ngenix.net/hls/CH_R03_OTT_DV_YKT_NVC_OTT/variant.m3u8
 
-#EXTINF:0 218. group-title="RU-Region",Тагил-ТВ 24
+#EXTINF:0,218. RU-Region",Тагил-ТВ 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-ural-ekt-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_TAGILTV_URAL_TAG/variant.m3u8
 
-#EXTINF:0 219. group-title="RU-Region",Второй канал (Радужный)
+#EXTINF:0,219. RU-Region",Второй канал (Радужный)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_RADUZNYI/variant.m3u8
 
-#EXTINF:0 220. group-title="RU-Region",Салям
+#EXTINF:0,220. RU-Region",Салям
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
 
-#EXTINF:0 221. group-title="RU-Region",Югра (Ханты-Мансийск)
+#EXTINF:0,221. RU-Region",Югра (Ханты-Мансийск)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8
 
-#EXTINF:0 222. group-title="RU-Region",Югра
+#EXTINF:0,222. RU-Region",Югра
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_URAL_SUR/variant.m3u8
 
-#EXTINF:0 223. group-title="RU-Region",Информационная служба Югры
+#EXTINF:0,223. RU-Region",Информационная служба Югры
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_PERVIYSOVETSKIY/variant.m3u8
 
-#EXTINF:0 224. group-title="RU-Region",Юрган
+#EXTINF:0,224. RU-Region",Юрган
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-nw-komi-htlive.cdn.ngenix.net/hls/CH_R01_YURGAN/variant.m3u8
 
-#EXTINF:0 225. group-title="RU-Region",Кабардино-Балкария
+#EXTINF:0,225. RU-Region",Кабардино-Балкария
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-sth-nalch-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_STH_NALCH_KBR/variant.m3u8
 
-#EXTINF:0 226. group-title="RU-Region",АТВ-Ставрополь r
+#EXTINF:0,226. RU-Region",АТВ-Ставрополь r
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_STAVR_ATV/variant.m3u8
 
-#EXTINF:0 227. group-title="RU-Region",Своё ТВ Ставрополь HD
+#EXTINF:0,227. RU-Region",Своё ТВ Ставрополь HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-sth-stavr-htlive-lb.cdn.ngenix.net/hls/CH_R03_STV-PLUS/variant.m3u8
 
-#EXTINF:0 228. group-title="RU-Region",АРИС 24 HD (Кумертау)
+#EXTINF:0,228. RU-Region",АРИС 24 HD (Кумертау)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
 
-#EXTINF:0 229. group-title="RU-Region",Афонтово HD
+#EXTINF:0,229. RU-Region",Афонтово HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_AFONTOVO/variant.m3u8
 
-#EXTINF:0 230. group-title="RU-Region",Русь (Кострома)
+#EXTINF:0,230. RU-Region",Русь (Кострома)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-ct-kostroma-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_KOSTROMA_RUS/variant.m3u8
 
-#EXTINF:0 231. group-title="RU-Region",ТВ-ИН HD Магнитогорск
+#EXTINF:0,231. RU-Region",ТВ-ИН HD Магнитогорск
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/variant.m3u8
 
-#EXTINF:0 232. group-title="RU-Region",Доверие
+#EXTINF:0,232. RU-Region",Доверие
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_DOVERIE/variant.m3u8
 
-#EXTINF:0 233. group-title="RU-Region",Дзержинск ТВ
+#EXTINF:0,233. RU-Region",Дзержинск ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_DZERZHINSK/variant.m3u8
 
-#EXTINF:0 234. group-title="RU-Region",Девятка ТВ (Киров)
+#EXTINF:0,234. RU-Region",Девятка ТВ (Киров)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R02_9TV/variant.m3u8
 
-#EXTINF:0 235. group-title="RU-Region",Первый городской Киров
+#EXTINF:0,235. RU-Region",Первый городской Киров
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R03_PERVYGORODSKOY/variant.m3u8
 
-#EXTINF:0 236. group-title="RU-Region",КТВ Город (Воронеж)
+#EXTINF:0,236. RU-Region",КТВ Город (Воронеж)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_VRZH_CTVGOROD/variant.m3u8
 
-#EXTINF:0 237. group-title="RU-Region",TV Губерния (Воронеж)
+#EXTINF:0,237. RU-Region",TV Губерния (Воронеж)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_VRZH_TVGUBERNIYA/variant.m3u8
 
-#EXTINF:0 238. group-title="RU-Region",41 Телеканал ВТК АРГУС HD (Воронеж)
+#EXTINF:0,238. RU-Region",41 Телеканал ВТК АРГУС HD (Воронеж)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://a635216799-rt-ct-vrzh-htlive.cdn.ngenix.net:443/hls/CH_R01_ARGUS/playlist.m3u8
 
-#EXTINF:0 239. group-title="RU-Region",Брянская Губерния HD (Брянск)
+#EXTINF:0,239. RU-Region",Брянская Губерния HD (Брянск)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BRYANSK_BRGRUBER/variant.m3u8
 
-#EXTINF:0 240. group-title="RU-Region",Городской Брянск (Брянск)
+#EXTINF:0,240. RU-Region",Городской Брянск (Брянск)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BRYANSK_GORODSKOY/variant.m3u8
 
-#EXTINF:0 241. group-title="RU-Region",Репортер 73 (Ульяновск)
+#EXTINF:0,241. RU-Region",Репортер 73 (Ульяновск)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R03_REP73/variant.m3u8
 
-#EXTINF:0 242. group-title="RU-Region",УлПравда ТВ (Ульяновск)
+#EXTINF:0,242. RU-Region",УлПравда ТВ (Ульяновск)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://194.190.78.91:8080/pravdatv/index.m3u8
 
-#EXTINF:0 243. group-title="RU-Region",Ул.Правда
+#EXTINF:0,243. RU-Region",Ул.Правда
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R01_ULPRAVDA/variant.m3u8
 
-#EXTINF:0 244. group-title="RU-Region",Универ-ТВ
+#EXTINF:0,244. RU-Region",Универ-ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R04_UNIVER/variant.m3u8
 
-#EXTINF:0 245. group-title="RU-Region",ДимГрад 24 (Димитровоград)
+#EXTINF:0,245. RU-Region",ДимГрад 24 (Димитровоград)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://194.190.78.91:8080/dimgrad/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 246. group-title="RU-Region",Миг ТВ
+#EXTINF:0,246. RU-Region",Миг ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MIG_TV_URAL_YNF/variant.m3u8
 
-#EXTINF:0 247. group-title="RU-Region",Миг ТВ r
+#EXTINF:0,247. RU-Region",Миг ТВ r
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MIG_TV_URAL_YNF/variant.m3u8?version=2
 
-#EXTINF:0 248. group-title="RU-Region",Майкопское Телевидение
+#EXTINF:0,248. RU-Region",Майкопское Телевидение
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_OTT_STH_KRDAR_MAYKOP/variant.m3u8
 
-#EXTINF:0 249. group-title="RU-Region",Майдан
+#EXTINF:0,249. RU-Region",Майдан
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R05_MAIDAN/variant.m3u8
 
-#EXTINF:0 250. group-title="RU-Region",Липецкое время HD
+#EXTINF:0,250. RU-Region",Липецкое время HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_LIPETSK_LVREM/variant.m3u8
 
-#EXTINF:0 251. group-title="RU-Region",Томское время HD (Томск)
+#EXTINF:0,251. RU-Region",Томское время HD (Томск)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_TOMSK_TOMSKVREMIA/variant.m3u8
 
-#EXTINF:0 252. group-title="RU-Region",Саратов 24
+#EXTINF:0,252. RU-Region",Саратов 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-vlg-saratov-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_VLG_SARATOV_SARATOV24/variant.m3u8
 
-#EXTINF:0 253. group-title="RU-Region",Тверской проспект
+#EXTINF:0,253. RU-Region",Тверской проспект
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-ct-tver-htlive-lb.cdn.ngenix.net/hls/CH_R01_TVERPROSP/variant.m3u8
 
-#EXTINF:0 254. group-title="RU-Region",Первый Псковский
+#EXTINF:0,254. RU-Region",Первый Псковский
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://194.190.78.91/pskov/rewind-10800.m3u8?983897548583a
 
-#EXTINF:0 255. group-title="RU-Region",ТЕО-ТВ HD
+#EXTINF:0,255. RU-Region",ТЕО-ТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TEOTV/variant.m3u8
 
-#EXTINF:0 256. group-title="RU-Region",Тивиком HD
+#EXTINF:0,256. RU-Region",Тивиком HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_TIVICOM/variant.m3u8
 
-#EXTINF:0 257. group-title="RU-Region",Тивиком (Улан-Удэ)
+#EXTINF:0,257. RU-Region",Тивиком (Улан-Удэ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
 
-#EXTINF:0 258. group-title="RU-Region",Кавказ 24
+#EXTINF:0,258. RU-Region",Кавказ 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_STAVR_KAVKAZ24/variant.m3u8
 
-#EXTINF:0 259. group-title="RU-Region",Первый Тульский HD
+#EXTINF:0,259. RU-Region",Первый Тульский HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_TULA_PERV_TUL/variant.m3u8
 
-#EXTINF:0 260. group-title="RU-Region",Первый городской Омск
+#EXTINF:0,260. RU-Region",Первый городской Омск
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-sib-omsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_1GORODSKOY/variant.m3u8
 
-#EXTINF:0 261. group-title="RU-Region",Новый век (Тамбов)
+#EXTINF:0,261. RU-Region",Новый век (Тамбов)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-ct-tamb-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_TAMB_NOVIY_VEK/variant.m3u8
 
-#EXTINF:0 262. group-title="RU-Region",Башкортостан 24 (Уфа)
+#EXTINF:0,262. RU-Region",Башкортостан 24 (Уфа)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://s45177.cdn.ngenix.net/hls/CH_R02_BASHKORTOSTAN24/variant.m3u8
 
-#EXTINF:0 263. group-title="RU-Region",ТОЛПАР-ТВ (Уфа)
+#EXTINF:0,263. RU-Region",ТОЛПАР-ТВ (Уфа)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://s45177.cdn.ngenix.net/hls/CH_R02_TOLPAR/variant.m3u8
 
-#EXTINF:0 264. group-title="RU-Region",Матур ТВ HD (Уфа)
+#EXTINF:0,264. RU-Region",Матур ТВ HD (Уфа)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://s45177.cdn.ngenix.net/hls/CH_R02_MATURTV/variant.m3u8
 
-#EXTINF:0 265. group-title="RU-Region",БСТ (Уфа)
+#EXTINF:0,265. RU-Region",БСТ (Уфа)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST/variant.m3u8
 
-#EXTINF:0 266. group-title="RU-Region",Астрахань 24 HD
+#EXTINF:0,266. RU-Region",Астрахань 24 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R01_ASTRAKHAN24/variant.m3u8
 
-#EXTINF:0 267. group-title="RU-Region",АТВ-Медиа
+#EXTINF:0,267. RU-Region",АТВ-Медиа
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_ATVMEDIA/variant.m3u8
 
-#EXTINF:0 268. group-title="RU-Region",Регион 29
+#EXTINF:0,268. RU-Region",Регион 29
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R02_PRAVDASEVERA/variant.m3u8
 
-#EXTINF:0 269. group-title="RU-Region",Афонтово
+#EXTINF:0,269. RU-Region",Афонтово
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_AFONTOVO/variant.m3u8
 
-#EXTINF:0 270. group-title="RU-Region",Щёлково ТВ (Щёлково)
+#EXTINF:0,270. RU-Region",Щёлково ТВ (Щёлково)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://stream0.tv41.ru/live.m3u8
 
-#EXTINF:0 271. group-title="RU-Region",Своё ТВ Ставрополь HD
+#EXTINF:0,271. RU-Region",Своё ТВ Ставрополь HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STH_STAVR_STV-PLUS/variant.m3u8
 
-#EXTINF:0 272. group-title="RU-Region",Саратов-24
+#EXTINF:0,272. RU-Region",Саратов-24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R01_SARATOV24/variant.m3u8
 
-#EXTINF:0 273. group-title="RU-Region",МЭТР (Йошкар-Ола)
+#EXTINF:0,273. RU-Region",МЭТР (Йошкар-Ола)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://rt-vlg-yola-htlive.cdn.ngenix.net/hls/CH_R03_METR/variant.m3u8
 
-#EXTINF:0 274. group-title="RU-Region",РТС - Абакан
+#EXTINF:0,274. RU-Region",РТС - Абакан
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_ABAKAN_RTS/variant.m3u8
 
-#EXTINF:0 275. group-title="RU-Region",ТВ-7 Абакан
+#EXTINF:0,275. RU-Region",ТВ-7 Абакан
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8
 
-#EXTINF:0 276. group-title="RU-Region",Ветта 24 (Перьм)
+#EXTINF:0,276. RU-Region",Ветта 24 (Перьм)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://serv24.vintera.tv:8081/vetta/vetta_office/chunks.m3u8
 
-#EXTINF:0 277. group-title="RU-Region",Объектив 59 HD (Пермь)
+#EXTINF:0,277. RU-Region",Объектив 59 HD (Пермь)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R04_OTT_OBJECTIVE59/variant.m3u8
 
-#EXTINF:0 278. group-title="RU-Region",Рифей-ТВ (Пермь)
+#EXTINF:0,278. RU-Region",Рифей-ТВ (Пермь)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_REFEY_PERM/variant.m3u8
 
-#EXTINF:0 279. group-title="RU-Region",Амурское областное телевидение (Благовещенск)
+#EXTINF:0,279. RU-Region",Амурское областное телевидение (Благовещенск)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://s84942.cdn.ngenix.net/hls/CH_R28_OTT_DV_BLAG_AOT/variant.m3u8
 
-#EXTINF:0 280. group-title="RU-Region",Москва 24
+#EXTINF:0,280. RU-Region",Москва 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MOSKOV24/variant.m3u8
 
-#EXTINF:0 281. group-title="RU-Region",Национальное ТВ Чувашии
+#EXTINF:0,281. RU-Region",Национальное ТВ Чувашии
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_NATIONALTV/variant.m3u8
 
-#EXTINF:0 282. group-title="RU-Region",Хамдан-Калмыкия 24
+#EXTINF:0,282. RU-Region",Хамдан-Калмыкия 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_ELISTA_HAMDAN/variant.m3u8
 
-#EXTINF:0 283. group-title="RU-Region",НТМ (Мордовия)
+#EXTINF:0,283. RU-Region",НТМ (Мордовия)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
 
-#EXTINF:0 284. group-title="RU-Region",Народное телевидение Мордовии
+#EXTINF:0,284. RU-Region",Народное телевидение Мордовии
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-vlg-srnk-htlive.cdn.ngenix.net/hls/CH_R01_NTM/variant.m3u8
 
-#EXTINF:0 285. group-title="RU-Region",Мордовия 24
+#EXTINF:0,285. RU-Region",Мордовия 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-vlg-srnk-htlive.cdn.ngenix.net/hls/CH_R02_MORDOVIY24/variant.m3u8
 
-#EXTINF:0 286. group-title="RU-Region",ТНР24 (Нижневартовск)
+#EXTINF:0,286. RU-Region",ТНР24 (Нижневартовск)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TNR24/variant.m3u8
 
-#EXTINF:0 287. group-title="RU-Region",Дон 24 HD (Ростов-на-Дону)
+#EXTINF:0,287. RU-Region",Дон 24 HD (Ростов-на-Дону)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_OTT_STH_RD_DON24/variant.m3u8
 
-#EXTINF:0 288. group-title="RU-Region",Ростов-папа HD (Ростов-на-Дону)
+#EXTINF:0,288. RU-Region",Ростов-папа HD (Ростов-на-Дону)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_RD_ROSTOVPAPA/variant.m3u8
 
-#EXTINF:0 289. group-title="RU-Region",Эхо-ТВ (Рязань)
+#EXTINF:0,289. RU-Region",Эхо-ТВ (Рязань)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
 
-#EXTINF:0 290. group-title="RU-Region",Первый Ярославский HD (Ярославль)
+#EXTINF:0,290. RU-Region",Первый Ярославский HD (Ярославль)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
 
-#EXTINF:0 291. group-title="RU-Region",Городской телеканал Ярославль
+#EXTINF:0,291. RU-Region",Городской телеканал Ярославль
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_YARL_GTREG/variant.m3u8
 
-#EXTINF:0 292. group-title="RU-Region",Рыбинск 40 (Ярославль)
+#EXTINF:0,292. RU-Region",Рыбинск 40 (Ярославль)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_RYBINSK40/variant.m3u8
 
-#EXTINF:0 293. group-title="RU-Region",Заб.TV 24 (Чита)
+#EXTINF:0,293. RU-Region",Заб.TV 24 (Чита)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_CHITA_ZABTV/variant.m3u8
 
-#EXTINF:0 294. group-title="RU-Region",НСК 49 (Новосибирск)
+#EXTINF:0,294. RU-Region",НСК 49 (Новосибирск)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_49CHANNEL/variant.m3u8
 
-#EXTINF:0 295. group-title="RU-Region",ОТС HD (Новосибирск)
+#EXTINF:0,295. RU-Region",ОТС HD (Новосибирск)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
 
-#EXTINF:0 296. group-title="RU-Region",9 Волна
+#EXTINF:0,296. RU-Region",9 Волна
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://cdn-01.bonus-tv.ru:8080/9volna/index.m3u8
 
-#EXTINF:0 297. group-title="RU-Region",Экспресс HD
+#EXTINF:0,297. RU-Region",Экспресс HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R01_EXPRESS/variant.m3u8
 
-#EXTINF:0 298. group-title="RU-Region",ЮТВ Чебоксары
+#EXTINF:0,298. RU-Region",ЮТВ Чебоксары
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_UTV/variant.m3u8
 
-#EXTINF:0 299. group-title="RU-Region",Ямал-Регион (Салехард)
+#EXTINF:0,299. RU-Region",Ямал-Регион (Салехард)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant.m3u8
 
-#EXTINF:0 300. group-title="RU-Region",Каскад (Калининград)
+#EXTINF:0,300. RU-Region",Каскад (Калининград)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_KASKAD/variant.m3u8
 
-#EXTINF:0 301. group-title="RU-Region",Советск-Тильзит ТВ
+#EXTINF:0,301. RU-Region",Советск-Тильзит ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://109.239.208.82:80/tilsit/mpegts
 
-#EXTINF:0 302. group-title="RU-Region",Краснодар HD
+#EXTINF:0,302. RU-Region",Краснодар HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_KRDAR_KRASNODAR/variant.m3u8
 
-#EXTINF:0 303. group-title="RU-Region",Катунь 24
+#EXTINF:0,303. RU-Region",Катунь 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_KATUN24/variant.m3u8
 
-#EXTINF:0 304. group-title="RU-Region",БСТ24 Братск
+#EXTINF:0,304. RU-Region",БСТ24 Братск
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://bst.bratsk.ru/hls/bst2/index.m3u8
 
-#EXTINF:0 305. group-title="RU-Region",ТРК 555 (Алушта)
+#EXTINF:0,305. RU-Region",ТРК 555 (Алушта)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://trk555.tv:8888/live
 
-#EXTINF:0 306. group-title="RU-Region",Новое время (Радужный)
+#EXTINF:0,306. RU-Region",Новое время (Радужный)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_RADUZNYI/variant.m3u8
 
-#EXTINF:0 307. group-title="RU-Region",Первый областной Орел
+#EXTINF:0,307. RU-Region",Первый областной Орел
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-ct-orl-htlive-lb.cdn.ngenix.net/hls/CH_R01_PERVOBL/variant.m3u8
 
-#EXTINF:0 308. group-title="RU-Region",Новгородское областное телевидение (Великий Новгород)
+#EXTINF:0,308. RU-Region",Новгородское областное телевидение (Великий Новгород)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8
 
-#EXTINF:0 309. group-title="RU-Region",ННТВ HD (Нижний Новгород)
+#EXTINF:0,309. RU-Region",ННТВ HD (Нижний Новгород)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
 
-#EXTINF:0 310. group-title="RU-Region",Время Н (Нижний Новгород)
+#EXTINF:0,310. RU-Region",Время Н (Нижний Новгород)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://a3569458168-rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R04_VREMYAN/playlist.m3u8
 
-#EXTINF:0 311. group-title="RU-Region",Время Н
+#EXTINF:0,311. RU-Region",Время Н
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R04_VREMYAN/variant.m3u8
 
-#EXTINF:0 312. group-title="RU-Region",Волга (Нижний Новгород)
+#EXTINF:0,312. RU-Region",Волга (Нижний Новгород)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_VOLGA/variant.m3u8
 
-#EXTINF:0 313. group-title="RU-Region",Волгоград 1 (Волгоград )
+#EXTINF:0,313. RU-Region",Волгоград 1 (Волгоград )
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://213.234.30.38/Live/1000k/stream.m3u8
 
-#EXTINF:0 314. group-title="RU-Region",Волгоград 1 HD (Волгоград)
+#EXTINF:0,314. RU-Region",Волгоград 1 HD (Волгоград)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R06_OTT_STH_VGRAD_VOLGOGRAD1/variant.m3u8
 
-#EXTINF:0 315. group-title="RU-Region",Волгоград 1
+#EXTINF:0,315. RU-Region",Волгоград 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R06_OTT_STH_VGRAD_VOLGOGRAD1/variant.m3u8
 
-#EXTINF:0 316. group-title="RU-Region",Волгоград 24 HD (Волгоград)
+#EXTINF:0,316. RU-Region",Волгоград 24 HD (Волгоград)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_VGRAD_VOLGOGRAD24/variant.m3u8
 
-#EXTINF:0 317. group-title="RU-Region",Волжский+ (Волжский)
+#EXTINF:0,317. RU-Region",Волжский+ (Волжский)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://flussonic.powernet.com.ru:8080/volplus/tracks-v2a1/index.m3u8
 
-#EXTINF:0 318. group-title="RU-Region",ВТК «Аргус» HD
+#EXTINF:0,318. RU-Region",ВТК «Аргус» HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_ARGUS/variant.m3u8
 
-#EXTINF:0 319. group-title="RU-Region",Губерния Хабаровск
+#EXTINF:0,319. RU-Region",Губерния Хабаровск
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://media1.gubernia.com/hls/live.m3u8
 
-#EXTINF:0 320. group-title="RU-Region",Губерния Самара
+#EXTINF:0,320. RU-Region",Губерния Самара
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R02_GUBERNIA/variant.m3u8
 
-#EXTINF:0 321. group-title="RU-Region",Самара-ГИС (Самара)
+#EXTINF:0,321. RU-Region",Самара-ГИС (Самара)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-vlg-samara-htlive-lb.cdn.ngenix.net/hls/CH_R02_OTT_VLG_SAMARA_SAMARAGIS/variant.m3u8
 
-#EXTINF:0 322. group-title="RU-Region",Тольятти 24
+#EXTINF:0,322. RU-Region",Тольятти 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://91.234.108.26/hls-live/livepkgr/_definst_/liveevent1/vazlivestream1.m3u8
 
-#EXTINF:0 323. group-title="RU-Region",Тольятти-24
+#EXTINF:0,323. RU-Region",Тольятти-24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R01_TOLYTTI24/variant.m3u8
 
-#EXTINF:0 324. group-title="RU-Region",ТРК Губерния-33 (Владимир)
+#EXTINF:0,324. RU-Region",ТРК Губерния-33 (Владимир)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_VLAD_GUBERNIA33/variant.m3u8
 
-#EXTINF:0 325. group-title="RU-Region",Вариант V (Владимир)
+#EXTINF:0,325. RU-Region",Вариант V (Владимир)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_VLAD_VARIANT_V/variant.m3u8
 
-#EXTINF:0 326. group-title="RU-Region",Кубань 24
+#EXTINF:0,326. RU-Region",Кубань 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
 
-#EXTINF:0 327. group-title="RU-Region",ОТВ Челябинск HD
+#EXTINF:0,327. RU-Region",ОТВ Челябинск HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_CHEL/variant.m3u8
 
-#EXTINF:0 328. group-title="RU-Region",ТВЖ HD (Аша)
+#EXTINF:0,328. RU-Region",ТВЖ HD (Аша)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://37.79.254.224:1234/hls2/tvg.m3u8
 
-#EXTINF:0 329. group-title="RU-Region",Brodilo TV HD
+#EXTINF:0,329. RU-Region",Brodilo TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://brodilo.tv/channel.php
 
-#EXTINF:0 330. group-title="RU-Region",ТВ21+
+#EXTINF:0,330. RU-Region",ТВ21+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R01_TV21PLUS/variant.m3u8
 
-#EXTINF:0 331. group-title="RU-Region",ТВ-Колыма+ HD
+#EXTINF:0,331. RU-Region",ТВ-Колыма+ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_KOLYMA/variant.m3u8
 
-#EXTINF:0 332. group-title="RU-Region",Вектор 24 (Губкинский)
+#EXTINF:0,332. RU-Region",Вектор 24 (Губкинский)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R02_VEKTOR24_GUBK/variant.m3u8
 
-#EXTINF:0 333. group-title="RU-Region",Ветта 24 Пермь
+#EXTINF:0,333. RU-Region",Ветта 24 Пермь
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VETTA24_PERM/variant.m3u8
 
-#EXTINF:0 334. group-title="RU-Region",ТОЛК (Барнаул)
+#EXTINF:0,334. RU-Region",ТОЛК (Барнаул)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_TOLK/variant.m3u8
 
-#EXTINF:0 335. group-title="RU-Region",РИМ HD (Каменск-Уральский)
+#EXTINF:0,335. RU-Region",РИМ HD (Каменск-Уральский)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-ural-ekt-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_RIM_URAL_KURAL/variant.m3u8
 
-#EXTINF:0 336. group-title="RU-Region",Министерство идей (Екатеринбург)
+#EXTINF:0,336. RU-Region",Министерство идей (Екатеринбург)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
 
-#EXTINF:0 337. group-title="RU-Region",НТС-Ирбит (Екатеринбург)
+#EXTINF:0,337. RU-Region",НТС-Ирбит (Екатеринбург)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_IRBITVEST_EKT/variant.m3u8
 
-#EXTINF:0 338. group-title="RU-Region",ОТВ Екатеринбург HD
+#EXTINF:0,338. RU-Region",ОТВ Екатеринбург HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3u8
 
-#EXTINF:0 339. group-title="RU-Region",Студия-41 (Екатеринбург)
+#EXTINF:0,339. RU-Region",Студия-41 (Екатеринбург)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STUDIO41/variant.m3u8
 
-#EXTINF:0 340. group-title="RU-Region",Область 45 HD
+#EXTINF:0,340. RU-Region",Область 45 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_OBLAST45/variant.m3u8
 
-#EXTINF:0 341. group-title="RU-Region",Селенга-ТВ (Улан-Удэ)
+#EXTINF:0,341. RU-Region",Селенга-ТВ (Улан-Удэ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://90.188.37.86/live/playlist.m3u8
 
-#EXTINF:0 342. group-title="RU-Region",СТВ-Байкал (Улан-Удэ)
+#EXTINF:0,342. RU-Region",СТВ-Байкал (Улан-Удэ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_UUDE_STVBAYKAL/variant.m3u8
 
-#EXTINF:0 343. group-title="RU-Region",Барс (Иваново)
+#EXTINF:0,343. RU-Region",Барс (Иваново)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_IVAN_BARS/variant.m3u8
 
-#EXTINF:0 344. group-title="RU-Region",Ивановское общественное телевидение (Иваново)
+#EXTINF:0,344. RU-Region",Ивановское общественное телевидение (Иваново)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_IVAN_IOT/variant.m3u8
 
-#EXTINF:0 345. group-title="RU-Region",Архыз 24 (Черкесск)
+#EXTINF:0,345. RU-Region",Архыз 24 (Черкесск)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://rt-sth-cherks-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STH_CHERKS_ARKHIZ241/variant.m3u8
 
-#EXTINF:0 346. group-title="RU-Region",РГВК Дагестан (Махачкала)
+#EXTINF:0,346. RU-Region",РГВК Дагестан (Махачкала)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://dagestan.mediacdn.ru/cdn/dagestan/playlist_sdmid.m3u8
 
-#EXTINF:0 347. group-title="RU-Region",РГВК Дагестан HD (Махачкала)
+#EXTINF:0,347. RU-Region",РГВК Дагестан HD (Махачкала)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://dagestan.mediacdn.ru/cdn/dagestan/playlist_hdhigh.m3u8
 
-#EXTINF:0 348. group-title="RU-Region",KTV (Кизилюрт)
+#EXTINF:0,348. RU-Region",KTV (Кизилюрт)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://185.78.112.46:8077/KTV/index.m3u8
 
-#EXTINF:0 349. group-title="RU-Region",Прибой ТВ (Махачкала)
+#EXTINF:0,349. RU-Region",Прибой ТВ (Махачкала)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://185.78.112.46:8077/priboy_tv/index.m3u8
 
-#EXTINF:0 350. group-title="RU-Region",Осетия-Ирыстон HD
+#EXTINF:0,350. RU-Region",Осетия-Ирыстон HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://rt-sth-vkaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_VKAZ_IRISTON/variant.m3u8
 
-#EXTINF:0 351. group-title="RU-Region",Кузбасс 1 HD (Кемерово)
+#EXTINF:0,351. RU-Region",Кузбасс 1 HD (Кемерово)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KEM_GTRK/variant.m3u8
 
-#EXTINF:0 352. group-title="RU-Region",Лен ТВ 24
+#EXTINF:0,352. RU-Region",Лен ТВ 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
 
-#EXTINF:0 353. group-title="RU-Region",Енисей (Красноярск)
+#EXTINF:0,353. RU-Region",Енисей (Красноярск)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_ENISEY/variant.m3u8
 
-#EXTINF:0 354. group-title="RU-Region",Енисей HD
+#EXTINF:0,354. RU-Region",Енисей HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 
-#EXTINF:0 355. group-title="RU-Region",ТВ Центр Красноярск HD
+#EXTINF:0,355. RU-Region",ТВ Центр Красноярск HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_CENTRKRSN/variant.m3u8
 
-#EXTINF:0 356. group-title="RU-Region",Прима (Красноярск)
+#EXTINF:0,356. RU-Region",Прима (Красноярск)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8
 
-#EXTINF:0 357. group-title="RU-Region",ТВК - 6 канал HD Красноярск
+#EXTINF:0,357. RU-Region",ТВК - 6 канал HD Красноярск
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://air.tvk6.ru/tvk24/index.m3u8
 
-#EXTINF:0 358. group-title="RU-Region",7 канал Красноярск
+#EXTINF:0,358. RU-Region",7 канал Красноярск
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R13_OTT_SIB_KRSK_RENTV/variant.m3u8
 
-#EXTINF:0 359. group-title="RU-Region",8 канал Красноярск
+#EXTINF:0,359. RU-Region",8 канал Красноярск
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://80.65.18.213/perviy_molodeginyi_3100kb.m3u8
 
-#EXTINF:0 360. group-title="RU-Region",8 канал (Владивосток)
+#EXTINF:0,360. RU-Region",8 канал (Владивосток)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_OTT8KANAL/variant.m3u8
 
-#EXTINF:0 361. group-title="RU-Region",8 канал (Новосибирск)
+#EXTINF:0,361. RU-Region",8 канал (Новосибирск)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_8CHANNEL/variant.m3u8
 
-#EXTINF:0 362. group-title="RU-Region",Арктик-ТВ HD
+#EXTINF:0,362. RU-Region",Арктик-ТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R03_ARCTIC/variant.m3u8
 
-#EXTINF:0 363. group-title="RU-Region",Архыз-24 HD
+#EXTINF:0,363. RU-Region",Архыз-24 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-sth-cherks-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STH_CHERKS_ARKHIZ241/variant.m3u8
 
-#EXTINF:0 364. group-title="RU-Region",Арктика 24 HD
+#EXTINF:0,364. RU-Region",Арктика 24 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ARKTIKA24_URAL_YNF/variant.m3u8
 
-#EXTINF:0 365. group-title="RU-Region",Север (Нарьян-Мар)
+#EXTINF:0,365. RU-Region",Север (Нарьян-Мар)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://live.mediacdn.ru:80/sr1/sever/playlist.m3u8
 
-#EXTINF:0 366. group-title="RU-Region",Мы и город
+#EXTINF:0,366. RU-Region",Мы и город
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-ural-ekt-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_MIGOR_URAL_KRASN/variant.m3u8
 
-#EXTINF:0 367. group-title="RU-Region",Муравленко 24 HD (ЯНАО)
+#EXTINF:0,367. RU-Region",Муравленко 24 HD (ЯНАО)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_MURAVLENKO_24/variant.m3u8
 
-#EXTINF:0 368. group-title="RU-Region",Колыма-Плюс (Магадан)
+#EXTINF:0,368. RU-Region",Колыма-Плюс (Магадан)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_KOLYMA/variant.m3u8
 
-#EXTINF:0 369. group-title="RU-Region",ОТВ Приморье
+#EXTINF:0,369. RU-Region",ОТВ Приморье
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_OTV/variant.m3u8
 
-#EXTINF:0 370. group-title="RU-Region",ВОТтв HD
+#EXTINF:0,370. RU-Region",ВОТтв HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_LIPETSK_VOTTV/variant.m3u8
 
-#EXTINF:0 371. group-title="RU-Region",Восток 24 (Владивосток)
+#EXTINF:0,371. RU-Region",Восток 24 (Владивосток)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
 
-#EXTINF:0 372. group-title="RU-Region",Якутия 24 (Якутск)
+#EXTINF:0,372. RU-Region",Якутия 24 (Якутск)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://s34351.cdn.ngenix.net/hls/CH_R14_OTT_DV_YKT_YKT/variant.m3u8
 
-#EXTINF:0 373. group-title="RU-Region",Область 45 (Курган)
+#EXTINF:0,373. RU-Region",Область 45 (Курган)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_OBLAST45/variant.m3u8
 
-#EXTINF:0 374. group-title="RU-Region",АИСТ HD
+#EXTINF:0,374. RU-Region",АИСТ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_AIST/variant.m3u8
 
-#EXTINF:0 375. group-title="RU-Region",ТиВиСи HD (Иркутск)
+#EXTINF:0,375. RU-Region",ТиВиСи HD (Иркутск)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_TIVICI/variant.m3u8
 
-#EXTINF:0 376. group-title="RU-Region",НТС Иркутск
+#EXTINF:0,376. RU-Region",НТС Иркутск
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_RENTVIRK/variant.m3u8
 
-#EXTINF:0 377. group-title="RU-Region",Семерка HD (Иркутск)
+#EXTINF:0,377. RU-Region",Семерка HD (Иркутск)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_SEMERKA/variant.m3u8
 
-#EXTINF:0 378. group-title="RU-Region",Актис HD (Ангарск)
+#EXTINF:0,378. RU-Region",Актис HD (Ангарск)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-sib-irk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_AKTIS/variant.m3u8
 
-#EXTINF:0 379. group-title="RU-Region",Ариг Ус 24 HD
+#EXTINF:0,379. RU-Region",Ариг Ус 24 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_ARIGUS/variant.m3u8
 
-#EXTINF:0 380. group-title="RU-Region",Наш дом (Пенза)
+#EXTINF:0,380. RU-Region",Наш дом (Пенза)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R03_NASHDOM/variant.m3u8
 
-#EXTINF:0 381. group-title="RU-Region",Тюменское время (Тюмень)
+#EXTINF:0,381. RU-Region",Тюменское время (Тюмень)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://streams.sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/chunklist.m3u8
 
-#EXTINF:0 382. group-title="RU-Region",Татарстан-24 (Казань)
+#EXTINF:0,382. RU-Region",Татарстан-24 (Казань)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://stream.efir24.tv:1935/live/efir24tv/playlist.m3u8
 
-#EXTINF:0 383. group-title="RU-Region",Эфир (Казань)
+#EXTINF:0,383. RU-Region",Эфир (Казань)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://stream.efir24.tv:1935/live/efirkazan/playlist.m3u8
 
-#EXTINF:0 384. group-title="RU-Region",ТРК Евразия (Орск)
+#EXTINF:0,384. RU-Region",ТРК Евразия (Орск)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
 
-#EXTINF:0 385. group-title="RU-Region",Евразия
+#EXTINF:0,385. RU-Region",Евразия
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R02_EVRAZIY/variant.m3u8
 
-#EXTINF:0 386. group-title="RU-Region",Чайковский ТВ
+#EXTINF:0,386. RU-Region",Чайковский ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://178.170.233.3:8889/index.m3u8
 
-#EXTINF:0 387. group-title="RU-Region",6 ТВ
+#EXTINF:0,387. RU-Region",6 ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_6TV/variant.m3u8
 
-#EXTINF:0 388. group-title="RU-Region",ОТВ (Одинцово)
+#EXTINF:0,388. RU-Region",ОТВ (Одинцово)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://185.18.4.16/live/3m/playlist.m3u8
 
-#EXTINF:0 389. group-title="RU-Region",ОТВ Сахалин
+#EXTINF:0,389. RU-Region",ОТВ Сахалин
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://s14553.cdn.ngenix.net/hls/CH_R65_OTT_DV_SLIN_OTV_SLIN/variant.m3u8
 
-#EXTINF:0 390. group-title="RU-Region",Красногорск ТВ
+#EXTINF:0,390. RU-Region",Красногорск ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://live-krtv.cdnvideo.ru/krtv/krtv.sdp/playlist.m3u8
 
-#EXTINF:0 391. group-title="RU-Region",Курай ТВ
+#EXTINF:0,391. RU-Region",Курай ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
 
-#EXTINF:0 392. group-title="RU-Region",Камчатка 1 HD
+#EXTINF:0,392. RU-Region",Камчатка 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_KAMCHATKA/variant.m3u8
 
-#EXTINF:0 393. group-title="RU-Region",41 Регион (Камчатка)
+#EXTINF:0,393. RU-Region",41 Регион (Камчатка)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://s14131.cdn.ngenix.net/hls/CH_R02_OTT_DV_KAM_41REG_OTT/variant.m3u8
 
