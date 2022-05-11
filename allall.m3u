@@ -53,17 +53,17 @@ http://stream-norst.cf:8080/tvoetv/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://stream-norst.cf:8080/tvoetv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,«14». Мосфильм Золотая Коллекция R
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
-http://109.200.130.124:7007/play/a018
+# #EXTINF:-1,«14». Мосфильм Золотая Коллекция R
+# #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+# http://109.200.130.124:7007/play/a018
 
-#EXTINF:-1,«15». Мосфильм. Золотая коллекция
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
-http://193.33.88.172:8080/mosfilm/tracks-v1a1/mono.m3u8
+# #EXTINF:-1,«15». Мосфильм. Золотая коллекция
+# #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+# http://193.33.88.172:8080/mosfilm/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,«16». ТНТ HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
-http://193.33.88.172/tnt_hd/tracks-v1a1/mono.m3u8
+# #EXTINF:-1,«16». ТНТ HD
+# #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+# http://193.33.88.172/tnt_hd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,«17». ТНТ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
@@ -233,9 +233,9 @@ https://sc.id-tv.kz/bober.m3u8.m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://sc.id-tv.kz:443/Vremya_36_37.m3u8
 
-#EXTINF:-1,«59». Дождь
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
-https://a3569457435-s78511.cdn.ngenix.net/open/_definst_/TVRain_noaudio/chunklist_DVR.m3u8
+# #EXTINF:-1,«59». Дождь
+# #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+# https://a3569457435-s78511.cdn.ngenix.net/open/_definst_/TVRain_noaudio/chunklist_DVR.m3u8
 
 #EXTINF:-1,«60». Звезда HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
@@ -2441,25 +2441,25 @@ https://stingray-naturescape-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTGRP:Для души
 https://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8
 
-#EXTINF:-1,«567». Ultra HD Cinema 4K UHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
-#EXTGRP:Кино
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw20000000/variant.m3u8?version=2
+# #EXTINF:-1,«567». Ultra HD Cinema 4K UHD
+# #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+# #EXTGRP:Кино
+# http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw20000000/variant.m3u8?version=2
 
-#EXTINF:-1,«568». ULTRA REX 4K UHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
-#EXTGRP:Кино
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw20000000/variant.m3u8?version=2
+# #EXTINF:-1,«568». ULTRA REX 4K UHD
+# #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+# #EXTGRP:Кино
+# https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw20000000/variant.m3u8?version=2
 
-#EXTINF:-1,«569». Ultra REX FullHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
-#EXTGRP:Кино
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw6000000/variant.m3u8
+# #EXTINF:-1,«569». Ultra REX FullHD
+# #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+# #EXTGRP:Кино
+# http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw6000000/variant.m3u8
 
-#EXTINF:-1,«570». Ultra HD cinema
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
-#EXTGRP:Кино
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8?version=2&hd
+# #EXTINF:-1,«570». Ultra HD cinema
+# #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+# #EXTGRP:Кино
+# http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8?version=2&hd
 
 #EXTINF:-1,«571». Ultra HD Cinema FulHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
@@ -2827,10 +2827,10 @@ http://stream-norst.cf/tvoetv.m3u8
 #EXTGRP:Кино
 http://stream-norst.cf:8080/tvoetv/index.m3u8
 
-#EXTINF:-1,«644». Наше Любимое Кино
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
-#EXTGRP:Кино
-http://46.34.209.243:80/btv/SWM/Nashe_Lubimoe_Kino/Nashe_Lubimoe_Kino_576p_2000kbps.m3u8
+# #EXTINF:-1,«644». Наше Любимое Кино
+# #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+# #EXTGRP:Кино
+# http://46.34.209.243:80/btv/SWM/Nashe_Lubimoe_Kino/Nashe_Lubimoe_Kino_576p_2000kbps.m3u8
 
 #EXTINF:-1,«645». Победа
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
@@ -3457,3 +3457,7 @@ http://ott-cdn.ucom.am/s22/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 #EXTGRP:Кино
 http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+
+#EXTINF:-1,«770». Наша Сибирь 4K
+#EXTGRP:Познавательные
+https://livetv.mylifeisgood.ml/channels/nashasibir4k
