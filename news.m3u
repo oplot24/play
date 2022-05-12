@@ -1,0 +1,69 @@
+#EXTM3U url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz"
+#EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
+
+#EXTINF:-1,«1». Россия 1 (+1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus1/playlist_2.m3u8
+
+#EXTINF:-1,«2». Известия
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+#EXTGRP:Эфирные
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+
+#EXTINF:-1,«3». Оплoт HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+#EXTGRP:Эфирные
+http://ott.inmart.tv:8081/54/index.m3u8
+
+#EXTINF:-1,«4». Звезда
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+
+#EXTINF:-1,«5». СССР ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+#EXTGRP:Кино
+https://autopilot.catcast.tv/content/38821/index.m3u8
+
+#EXTINF:-1,«6». МИР
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+
+#EXTINF:-1,«7». Первый HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://serv25.vintera.tv:8081/1pnk/1pnk/playlist.m3u8
+
+#EXTINF:-1,«8». Наша Сибирь 4K
+#EXTGRP:Познавательные
+https://livetv.mylifeisgood.ml/channels/nashasibir4k
+
+#EXTINF:-1,Россия 1 (+2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus2/playlist_2.m3u8
+
+#EXTINF:-1,Россия 1 (+3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus3/playlist_2.m3u8
+
+#EXTINF:-1,Россия 1 (+4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus4/playlist_2.m3u8
+
+#EXTINF:-1,Россия 1 (+5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus5/playlist_2.m3u8
+
+#EXTINF:-1,Россия 1 (+6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus6/playlist_2.m3u8
+
+#EXTINF:-1,Россия 1 (+7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus7/playlist_2.m3u8
+
+#EXTINF:-1,Россия 1 (+8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus8/playlist_2.m3u8
+
+#EXTINF:-1,Россия 1 (+9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus9/playlist_2.m3u8
