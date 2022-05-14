@@ -3,7 +3,7 @@
 
 #EXTINF:-1,«1». Россия 1 (+1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
-http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus1/playlist_2.m3u8
+https://www.google.com/url?q=http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus1/playlist_2.m3u8&ust=1652641238348000&usg=AOvVaw1GmracPQPdHu9JN3ljYLjn
 
 #EXTINF:-1,«2». Известия
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
