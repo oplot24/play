@@ -1,0 +1,12 @@
+#EXTM3U url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz"
+#EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
+
+#EXTINF:-1, Детское кино International
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=38720&token=d3e3b788a5ce4a9bf2cac022d5990b74&server=v2.catcast.tv
+
+#EXTINF:-1, Советское кино
+https://mhd116.iptv2022.com/p/mEJbTSeeiR8w5ajC5asMqg,1653760344/streaming/sovietmovs/324/1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Мосфильм. Золотая коллекция
+https://sbautumn.com/lba/NWY2YjAyZDk5MDVkMDcxZmRjNGVjYWViNDFkMDZjYmE=/g7/mosfilm.m3u8?token=NWY2YjAyZDk5MDVkMDcxZmRjNGVjYWViNDFkMDZjYmE=&id=ODU4NTQ2NDI4MTEyOTdjM2M2ZTBiNzQxNGE4Y2NiODE=&vip=1653667176&dip=MGVkMTUwMDM4MjYyZWVmNGY2MGNiMzdkODY4ZGI5NjI=&pip=Y2UwYmQ4ZjE4MjUxNTA0MjBkNzljZDYzNjE5NWQyZmQ=&hip=ZjFkMmVjNTQ2ODA4YWQ2Y2U3NmU1MTkyMGExYjkyOWI=
+
